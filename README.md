@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Krishna Chaurasiya</h1>
 <h3 align="center">A passionate Backend developer from Navasri,Gujarat</h3>
-    <img align="right" width="400" alt="coding" src="[https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)">
+    <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 - 🔭 I’m currently Studying in **Parul University**
 
